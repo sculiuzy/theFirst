@@ -1,3 +1,10 @@
 ﻿for i in range(10):
     for j in range(5):
         print('helloworld')
+
+public class Main{
+public static void sort(int []arr){
+int length=arr.length
+
+}
+}
